@@ -1,6 +1,6 @@
 import contextlib
 from typing import Optional
-import utils
+from . import utils
 
 
 BACKSLASH = chr(92)
